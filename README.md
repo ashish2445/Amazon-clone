@@ -1,6 +1,6 @@
 # Amazon-clone
 
-Overview
+#Overview
 This project is a clone of Amazon, designed to mimic the core functionalities of the popular e-commerce platform. It includes features such as user authentication, product listings, shopping cart, and checkout functionality. This project aims to provide a learning experience in building e-commerce applications.
 
 Features
